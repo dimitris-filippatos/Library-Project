@@ -1,0 +1,23 @@
+#book-form {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: x-large;
+    position: fixed;
+    left: 45%;
+    top: 45%;
+    border: 25px solid;
+    border-radius: 50px;
+  }
+  
+  #form-input {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+  }
+  #submit-btn{
+    background-color: #4CAF50;
+  
+  }
+  table, th, td {
+    border: 2px solid green;
+    
+  }
